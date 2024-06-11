@@ -1,0 +1,13 @@
+*{
+  font-size: 5vw;
+}
+body{
+  background-color: darkslategrey;
+}
+input{
+  background-color: cadetblue;
+}
+
+::placeholder{
+  color: aliceblue;
+}
